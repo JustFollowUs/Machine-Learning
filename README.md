@@ -96,7 +96,7 @@ R程序语言设计| 暂无 | 暂无
  [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
 [Machine Learning](https://www.amazon.com/gp/product/0071154671?ie=UTF8&tag=jefork-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0071154671) | 一般
 [Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
-[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
+[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯),[配套讲义](http://cs.brown.edu/courses/csci1420/lectures.html)
 [The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
 [Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
 [Machine Learning: A probabilistic approach](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | 较难
