@@ -110,6 +110,7 @@ R程序语言设计| 暂无 | 暂无
 - [图模型](https://github.com/JustFollowUs/Probabilistic-graphical-models)
 - [强化学习](https://github.com/JustFollowUs/Reinforcement-Learning)
 - [Hash](http://cs.nju.edu.cn/lwj/L2H.html) 
+- [理论机器学习](https://github.com/JustFollowUs/Theoretical-Machine-Learning/)
 - 其他(尚未完善)
 
 ###<h3 id="special_learning_data">领域会议期刊</h3>
