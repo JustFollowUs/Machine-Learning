@@ -76,6 +76,8 @@ R程序语言设计| 暂无 | 暂无
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
 [凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
 
+下面这个概述必须看完。
+- [Convex Optimization: Algorithms and Complexity](https://link.zhihu.com/?target=http%3A//arxiv.org/abs/1405.4980)
 
 ### <h3 id="machine_learning_median">机器学习课程中级</h3>
    此处NTU和Caltech两个大学的课程是由《Learning from Data》一书的两个不同的作者讲的，所以仅仅只需选择一个完成即可，注意：如果选择完成NTU的机器学习课程，则**NTU的“机器学习基石”和“机器学习技法”需同时完成。**。
